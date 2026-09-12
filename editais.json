@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Edital de Fomento – Multiartes 2026",
+    "category": "Artes Visuais",
+    "value": "Variável",
+    "deadline": "Contínuo",
+    "description": "Edital da Secretaria de Cultura do Paraná, visando projetos de fomento nas áreas de multiartes no estado.",
+    "sponsor": "Secretaria da Cultura - PR",
+    "url": "https://www.cultura.pr.gov.br/",
+    "uf": "PR",
+    "municipio": "Curitiba"
+  },
+  {
+    "id": 2,
+    "title": "Prêmio Spcine de Desenvolvimento de Jogos",
+    "category": "Cinema",
+    "value": "R$ 150.000",
+    "deadline": "30/09/2026",
+    "description": "Apoio financeiro para o desenvolvimento de protótipos de jogos eletrônicos independentes em São Paulo.",
+    "sponsor": "Spcine / Prefeitura de SP",
+    "url": "https://www.spcine.com.br/",
+    "uf": "SP",
+    "municipio": "São Paulo"
+  }
+]
